@@ -24,6 +24,7 @@ alert( result );
 *	SQL
 *	SoapUI
 *	Postman
+*   Git
 
 ### Work experience:
 
